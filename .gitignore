@@ -57,4 +57,5 @@ n# Created by https://www.toptal.com/developers/gitignore/api/c++
 *.app
 
 # End of https://www.toptal.com/developers/gitignore/api/c++
-n
+build/
+.cache/
